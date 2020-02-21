@@ -11,12 +11,14 @@ p {
     width: auto;
     padding: 0px;
     background-color:white;
-    border-bottom-style: solid;
-    border-bottom-color:rgb(78, 173, 61);
     margin: auto;
 }
 
 #secondID {
     margin: 0 auto;
     width: 669px;
+}
+#thirdID{
+    height: 576px;
+    background-color:rgb(105, 189, 69);
 }
