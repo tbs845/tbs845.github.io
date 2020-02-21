@@ -1,11 +1,22 @@
 body {
   background-color:rgb(100, 100, 100);
+  margin: 0px;
+  font-size: 100%;
 }
 h1 {
   color: rgb(200, 200, 200);
 }
-p {
-  color: orange;
+#blurb{
+    margin: 0px;
+    color: white;
+    font-size: 1.5em;
+    text-align: center;
+    letter-spacing: 1.2px;
+    line-height: 1.2;
+    word-spacing: 4px;
+    font-weight: normal;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #firstID {
     width: auto;
@@ -19,6 +30,20 @@ p {
     width: 669px;
 }
 #thirdID{
-    height: 576px;
+    height: 332px;
     background-color:rgb(105, 189, 69);
+    padding: 20px;
+}
+#fourthID{
+    margin: 0 auto;
+    border: 0px;
+    padding: 00px;
+    width: 1000px;
+}
+#contact{
+    color: white;
+    font-size: 0.875em;
+    letter-spacing: 1.2px;
+    line-height: 1.5;
+    margin-top: 135px;
 }
