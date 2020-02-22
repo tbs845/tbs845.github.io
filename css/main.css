@@ -23,11 +23,13 @@ h1 {
     padding: 0px;
     background-color:white;
     margin: auto;
+    height: 400px;
 }
 
 #secondID {
     margin: 0 auto;
-    width: 669px;
+    width: 281px;
+    padding: 101px;
 }
 #thirdID{
     height: 332px;
